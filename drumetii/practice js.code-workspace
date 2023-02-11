@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/ralub/Desktop/practice js"
+		},
+		{
+			"path": "img"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "practice js"
+	}
+}
